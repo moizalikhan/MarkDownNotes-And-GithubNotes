@@ -1,0 +1,59 @@
+ format text in ddifferent ways
+ Generally rendered to html or any other format
+
+ for new line leave the next line and then you have a new paragraph
+ or you have extra 2 spaces for new line
+
+ #h1
+
+ #h2
+
+ ###### smallest
+
+ **bold**
+
+ *italic*
+
+ ***bold and italic***
+
+ ~~crossed off~~
+
+ ==highlight== or <mark></mark>
+
+ x^2--superscript or <sup></sup>
+
+ h~2~0--subscript or <sub><sub/>
+
+ :smile:--emojie
+
+ `code`---code shower
+
+ ```multiple lines code```--code shower
+
+ ```js``` language syntax
+
+ [This is a link](https://google,com)--creating a link
+
+ ![alt text](asset path)--adding an image
+
+ > Text --Quote(bar)
+
+ ******* ------Horizontal Rule
+
+ number ----lists
+
+ * ----unordered lists
+
+ Table:
+   |Column 1|Column 2|
+   |--------|--------:(left allign)|
+   |        |        |
+   |        |        |
+
+ -[] --- check box
+
+ there are many flavors-- extra functionality
+
+ github__flavor--"gfm"
+
+ 
